@@ -20,11 +20,11 @@ The features used were:
 
 - Simple Moving Averages (SMA): In the context of this project, an SMA calculates the average stock for 7-day and 21-day periods and assigns equal weight to each stock price within those periods. The 7-day and 21-day SMAs smooth out short-term price fluctuations, helping to identify the overall trend direction.
 
-Exponential Moving Averages (EMA): The 12-day and 26-day EMAs are more heavily weighted to recent prices than SMAs, making them more responsive to new information and detecting short-term momentum changes.
+- Exponential Moving Averages (EMA): The 12-day and 26-day EMAs are more heavily weighted to recent prices than SMAs, making them more responsive to new information and detecting short-term momentum changes.
 
 - MACD and Signal Line: The Moving Average Convergence Divergence (MACD) and its Signal Line are crucial for identifying changes in a trend's strength, direction, momentum, and duration.
 
-Relative Strength Index (RSI): In the context of this project, the 14-day RSI measures the speed and magnitude of a stock price change, allowing the identification of overvalued or undervalued conditions. An RSI can also indicate stock prices that may exhibit a trend reversal. 
+- Relative Strength Index (RSI): In the context of this project, the 14-day RSI measures the speed and magnitude of a stock price change, allowing the identification of overvalued or undervalued conditions. An RSI can also indicate stock prices that may exhibit a trend reversal. 
 
 - Bollinger Bands: Bollinger Bands measure volatility by placing standard deviation lines above and below an SMA, identifying overextended price moves that may revert to the mean.
 
