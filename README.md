@@ -16,6 +16,8 @@ The features used were:
 
 **Correlated Assets**: The AAPL stock price can be influenced by the performance of correlated assets, such as other technology companies, indices, and related sectors. These assets provide additional context to market and sector trends. For example, the performance of Amazon or Microsoft can indicate broader industry movements that AAPL might follow, making these correlations valuable predictors.
 
+![alt link](https://github.com/nickmvega/Stock-Price-Prediction-using-LSTM-Networks-and-Bayesian-Optimization/blob/a54806bf9b0d0ac0121047dc6240fe6a7b19f619/Top%205%20Assets%20.png)
+
 **Technical Indicators**: Various technical indicators were employed to capture different aspects of the stock's price behavior:
 
 - Simple Moving Averages (SMA): In the context of this project, an SMA calculates the average stock for 7-day and 21-day periods and assigns equal weight to each stock price within those periods. The 7-day and 21-day SMAs smooth out short-term price fluctuations, helping to identify the overall trend direction.
