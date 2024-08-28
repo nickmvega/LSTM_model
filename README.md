@@ -34,8 +34,7 @@ Autoregressive Integrated Moving Average (ARIMA): ARIMA models are employed to u
 
 The model achieved an RMSE (Root Mean Squared Error) of 0.0474 and an MAE (Mean Absolute Error) of 0.0370, indicating a relatively low error rate in predicting the stock prices of Apple Inc. (AAPL). The RMSE measures how much the predictions deviate from the actual values on average, while the MAE reflects the average magnitude of errors in the predictions.
 
-![alt text](https://github.com/[nickmvega]/[Stock-Price-Prediction-using-LSTM-Networks-and-Bayesian-Optimization]/blob/[main]/Apple_Predictions.png?raw=true)
-
+![alt text](https://github.com/nickmvega/Stock-Price-Prediction-using-LSTM-Networks-and-Bayesian-Optimization/blob/22ab27ef12ef4a40afa6546dfd348ff1edeb7981/Apple%20Predictions.png)
 
 # POTENTIAL IMPROVEMENTS
 
