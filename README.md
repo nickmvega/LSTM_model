@@ -10,6 +10,8 @@ The entire pipeline is in Stock_Prediction_Model.ipynb
 
 To predict AAPL stock price movements, a substantial amount of data and a variety of features are essential. In this project, the dataset consisted of 2,429 days, with 1,700 days allocated for training and 729 days for testing.
 
+![alt text](https://github.com/nickmvega/Stock-Price-Prediction-using-LSTM-Networks-and-Bayesian-Optimization/blob/b2f23327fb3a0c7a0e2e351d10954a880894fc0c/Train%3ATest%20Split.png)
+
 Correlated Assets: The AAPL stock price is influenced by the performance of correlated assets, such as other technology companies, indices, and related sectors. These assets provide additional context by reflecting market conditions, sector trends, and external factors that may impact AAPL's stock price. For example, the performance of Amazon or Microsoft can indicate broader industry movements that AAPL might follow, making these correlations valuable predictors.
 
 Technical Indicators: Various technical indicators were employed to capture different aspects of the stock's price behavior:
